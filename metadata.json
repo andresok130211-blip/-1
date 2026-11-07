@@ -1,0 +1,6 @@
+{
+  "name": "Boeing 737-800 3D Flight Deck Simulator",
+  "description": "High-fidelity interactive 3D cockpit of the Boeing 737-800 with dynamic avionics, PFD, ND, MCP autopilot, throttle quadrant, overhead panel, realistic lighting modes, and procedural audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
